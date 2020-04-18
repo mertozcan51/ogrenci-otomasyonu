@@ -1,0 +1,16 @@
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\bin\Debug\EmreOdev2.exe.config
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\bin\Debug\EmreOdev2.exe
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\bin\Debug\EmreOdev2.pdb
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.csprojAssemblyReference.cache
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.Form1.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.Ogretmen.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.Properties.Resources.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.csproj.GenerateResource.cache
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.csproj.CoreCompileInputs.cache
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.exe
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.pdb
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.Ders.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.Ogrenci.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.ders_kayit.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.ogr_kayit.resources
+C:\Users\merto\source\repos\EmreOdev2\EmreOdev2\obj\Debug\EmreOdev2.ogrtmn_kayit.resources
